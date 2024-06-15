@@ -32,7 +32,7 @@
         srcet="https://github-readme-stats.vercel.app/api/top-langs/?username=nando-cunha99&layout=pie&theme=transparent""
         media="(prefer-color-scheme:light)"
         />
-      <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nando-cunha99&layout=pie&theme=city_lights"/>
+      <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nando-cunha99&layout=compact&theme=city_lights"/>
     </picture>
     
 </div>
